@@ -1,4 +1,4 @@
-![alt text](https://github.com/Singularity-Coder/Code-Snippets-C/blob/main/assets/banner_c.png)
+![alt text](https://github.com/Singularity-Coder/Code-Snippets-C/blob/main/assets/banner_c_new.png)
 # Instant-C
 List of C topics and their code snippets!
 
