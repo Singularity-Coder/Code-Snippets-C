@@ -1,5 +1,5 @@
 ![alt text](https://github.com/Singularity-Coder/Code-Snippets-C/blob/main/assets/banner_c.png)
-# Code-Snippets-C
+# Instant-C
 List of C topics and their code snippets!
 
 ## Package definition and imports
